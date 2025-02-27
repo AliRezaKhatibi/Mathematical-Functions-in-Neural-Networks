@@ -29,4 +29,5 @@ pattern recognition, and analyzing complex datasets. Since neural networks can r
 data and improve themselves, they can make intelligent predictions and decisions without
 requiring precise programming. For this reason, neural networks have become one of the
 main tools in artificial intelligence and machine learning research.
+and more in :
 
