@@ -4,7 +4,7 @@ The primary objective of this paper is to explore and analyze the essential math
 Mathematical Functions and Equations in Neural Networks: A Comprehensive Overview
 
 
-#Table of Contents:
+# Table of Contents:
 
 1. Introduction
 2. Importance of Mathematical Functions in Machine Learning and Neural Networks
