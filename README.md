@@ -7,8 +7,8 @@ The primary objective of this paper is to explore and analyze the essential math
 
 # Table of Contents:
 
-1. [Introduction](https://colab.research.google.com/github.com/AliRezaKhatibi)
-2. [Importance of Mathematical Functions in Neural Networks](NN_f_Article.ipynb#Importance-of-Mathematical-Functions-in-Machine-Learning-and-Neural-Networks)
+1. [Introduction]
+2. [Importance of Mathematical Functions in Neural Networks]
 3. Key Mathematical Functions in Neural Networks
 A. Activation Functions
 B. Loss Functions
