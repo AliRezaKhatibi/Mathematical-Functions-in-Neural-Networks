@@ -2,14 +2,7 @@
 The primary objective of this paper is to explore and analyze the essential mathematical functions and equations that underpin neural networks
 
 Mathematical Functions and Equations in Neural Networks: A Comprehensive Overview
-Author Information
-Name: [Ali Reza Khatibi]
-Affiliation: [persian gulf university]
-Position: [senior student]
-Research Interests: [Machine Learning, Neural Networks]
-Email: [alireza12arkero@gmail.com]
-Date:
-Date: [Date of completion:February 2025]
+
 
 #Table of Contents:
 
