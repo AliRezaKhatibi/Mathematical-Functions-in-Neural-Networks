@@ -1,7 +1,8 @@
 # Mathematical-Functions-in-Neural-Networks
 The primary objective of this paper is to explore and analyze the essential mathematical functions and equations that underpin neural networks
 
-# Mathematical Functions and Equations in Neural Networks: A Comprehensive Overview
+# <font color='green'>**Mathematical Functions and Equations in Neural Networks: A Comprehensive Overview**</font>
+
 
 
 # Table of Contents:
