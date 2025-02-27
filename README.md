@@ -10,7 +10,9 @@ Research Interests: [Machine Learning, Neural Networks]
 Email: [alireza12arkero@gmail.com]
 Date:
 Date: [Date of completion:February 2025]
-Table of Contents
+
+#Table of Contents:
+
 1. Introduction
 2. Importance of Mathematical Functions in Machine Learning and Neural Networks
 3. Key Mathematical Functions in Neural Networks
@@ -20,7 +22,8 @@ C. Optimization Algorithms
 4. Mathematical Equations in Neural Networks
 5. Gradient Descent and Its Variants
 6. Conclusion
-Introduction
+
+# Introduction
 Neural networks are computational systems inspired by the structure and functioning of the
 human brain. These networks consist of processing units called neurons, which are
 connected in layers. Each neuron receives inputs, applies an activation function, and
